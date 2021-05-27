@@ -6,7 +6,9 @@ im Sommersemester 2021 an der Universität Passau.
 Die Arbeitsblätter (Jupyter Notebooks mit SageMath Kernel, also Python mit etwas Syntaxmagie) können
 unter
 
-https://nbviewer.jupyter.org/github/JeremiasE/ODE-SS2021/blob/main/1-Pendel
+https://nbviewer.jupyter.org/github/JeremiasE/ODE-SS2021/blob/main/1-Pendel/Mathematisches%20Pendel.ipynb
+
+https://nbviewer.jupyter.org/github/JeremiasE/ODE-SS2021/blob/main/2-Richtungsfeld/Richtungsfelder.ipynb
 
 angezeigt werden. 
 
