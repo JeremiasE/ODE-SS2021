@@ -10,6 +10,12 @@ https://nbviewer.jupyter.org/github/JeremiasE/ODE-SS2021/blob/main/1-Pendel/Math
 
 https://nbviewer.jupyter.org/github/JeremiasE/ODE-SS2021/blob/main/2-Richtungsfeld/Richtungsfelder.ipynb
 
+https://nbviewer.jupyter.org/github/JeremiasE/ODE-SS2021/tree/main/4-Lineare_Systeme
+
+https://nbviewer.jupyter.org/github/JeremiasE/ODE-SS2021/blob/main/5-Konstante_Koeffizienten/Ged%C3%A4mpfter%20harmonischer%20Oszillator.ipynb
+
+https://nbviewer.jupyter.org/github/JeremiasE/ODE-SS2021/blob/main/6-Exakte_Differenzialgleichungen/Exakte%20Differentialgleichungen.ipynb
+
 angezeigt werden. 
 
 # Arbeitsblätter ausführen 
